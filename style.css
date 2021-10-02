@@ -1,0 +1,139 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.title{
+    color:orange;
+}
+.button{
+    text-decoration: none;
+    padding:10px 20px;
+    font-size: 10px;
+    border-radius:5px;
+    background-color:orange;
+    color:white;
+    text-align:center;
+}
+.footer-button{
+    text-decoration: none;
+    padding:10px 20px;
+    font-size: 10px;
+    border-radius:5px;
+    background-color:white;
+    color:rgb(196, 17, 17);
+    text-align:center;
+}
+h1{
+    font-size:30px;
+}
+.container{
+    float:left;
+    margin: 300px;
+}
+.header-section{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding:2%;
+} 
+.header-section img{
+    width: 100%;
+}
+.bg-image{
+    /* width: 500px; */
+}
+#delivery{
+    height: 375px;
+}
+#contact{
+    margin-top: 30px;
+}
+#header-half{
+    height:500px;
+}
+
+img{
+    width: 100%;
+}
+.container{
+    background-image: url(images/about-us-bg.png);
+    background-repeat: no-repeat; 
+}
+.recipes-title h4 p{
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+    height:100%;
+    width: 100%;
+    border-bottom: 1px solid red;
+}
+h2{
+    justify-content: center;
+    text-align: center;
+}
+.contact h5{
+    text-align: center;
+    justify-content: center;
+    margin:0 auto;
+    padding:20px;
+}
+.para{
+    text-align: center;
+}
+.footer{
+    background-color:black;
+    color:white;
+    height: 100px;;
+}
+.social-icons{
+    justify-content:center;
+    text-align:center;
+}
+.content-heading{
+    text-align:center;
+}
+.cart{
+    width: 25%;
+    float: left;
+    margin:50px;
+    padding:20px;
+    box-shadow: 10px 10px 10px gray;
+    border-radius:25px;
+    box-sizing: border-box;
+}
+.cart-section{
+    margin:px;
+}
+.contact{
+    width:700px;
+    height:200px;
+    background-color:orange;
+    margin: 600px;
+    padding:50px;
+}
+.cart-section{
+    justify-content:center;
+    text-align:center;
+    margin: 30px;
+}
+.contact-box{
+    text-align:center;
+    justify-content:center;
+}
+.contact-box h5{
+    text-align:center;
+    justify-content: center;
+    margin:20px;
+    padding:5px;
+}
+.contact-section{
+    float: left;
+    text-align:center;
+    margin: 10px;
+}
+.contact-info{
+    display:flex;
+    justify-content: center;
+}
